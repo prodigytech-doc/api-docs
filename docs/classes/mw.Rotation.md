@@ -2,7 +2,7 @@
 
 # Rotation <Badge type="tip" text="Class" /> <Score text="Rotation" />
 
-由分量 (x,y,z) 组成的三维空间中的旋转量，对应UE的Rotator。
+由分量 (x,y,z) 组成的三维空间中的旋转量。
 Rotation 是三个欧拉角Picth、Yaw、Roll的封装类，
 
 ::: warning Precautions
